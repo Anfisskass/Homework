@@ -46,3 +46,4 @@ git branch -M main - вторая команда
 
 git push -u origin main - третья команда
 
+git push - входе исправления в VSC для слияния с сайтом
